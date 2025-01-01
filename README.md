@@ -7,7 +7,7 @@
 # ☕ Java Basics
 # -----------------------------
 
-# 1. Variables and Data Types
+# 1. Variables and Data Types 
 # Definition: Variables are containers for storing data values. Java is statically typed, 
 # meaning you must declare a variable with a specific data type.
 
